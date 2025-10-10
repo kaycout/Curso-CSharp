@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.exe
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\refint\SaidaDados.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SaidaDados\SaidaDados\obj\Debug\net8.0\ref\SaidaDados.dll
