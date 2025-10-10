@@ -18,7 +18,7 @@ namespace SegundoProjeto
             float n5 = 4.5f; // para declarar número em float, precisa colocar a letra f.
             double n6 = 4.5;
             string nome = "Kaylane Coutinho";
-            // adicionando um novo nome a variável string.
+            // adicionando um novo nome a váriavel string.
             nome = "Alexandre";
 
             // váriavel object, é um tipo genérico, ou seja, aceita qualquer tipo de dados.
