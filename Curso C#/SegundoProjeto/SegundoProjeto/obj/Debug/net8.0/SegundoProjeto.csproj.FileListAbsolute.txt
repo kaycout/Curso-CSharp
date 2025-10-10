@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.exe
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\refint\SegundoProjeto.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll
