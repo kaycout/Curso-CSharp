@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.exe
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\refint\EntradaDados.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EntradaDados\EntradaDados\obj\Debug\net8.0\ref\EntradaDados.dll

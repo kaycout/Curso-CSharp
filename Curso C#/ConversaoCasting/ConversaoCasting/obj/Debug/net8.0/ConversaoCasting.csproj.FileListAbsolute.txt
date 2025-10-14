@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.exe
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\refint\ConversaoCasting.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ref\ConversaoCasting.dll
