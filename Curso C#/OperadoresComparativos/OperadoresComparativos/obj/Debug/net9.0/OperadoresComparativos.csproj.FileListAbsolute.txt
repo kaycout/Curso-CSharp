@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\bin\Debug\net9.0\OperadoresComparativos.exe
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\bin\Debug\net9.0\OperadoresComparativos.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\bin\Debug\net9.0\OperadoresComparativos.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\bin\Debug\net9.0\OperadoresComparativos.dll
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\bin\Debug\net9.0\OperadoresComparativos.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\OperadoresComparativos.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\OperadoresComparativos.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\OperadoresComparativos.dll
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\refint\OperadoresComparativos.dll
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\OperadoresComparativos.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\OperadoresComparativos.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresComparativos\OperadoresComparativos\obj\Debug\net9.0\ref\OperadoresComparativos.dll

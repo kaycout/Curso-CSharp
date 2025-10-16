@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.exe
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.dll
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.dll
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\refint\OperadoresLogicos.dll
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net9.0\ref\OperadoresLogicos.dll
