@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net9.0\EstruturaCondicional.exe
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net9.0\EstruturaCondicional.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net9.0\EstruturaCondicional.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net9.0\EstruturaCondicional.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net9.0\EstruturaCondicional.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\EstruturaCondicional.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\EstruturaCondicional.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\EstruturaCondicional.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\refint\EstruturaCondicional.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\EstruturaCondicional.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\EstruturaCondicional.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net9.0\ref\EstruturaCondicional.dll
