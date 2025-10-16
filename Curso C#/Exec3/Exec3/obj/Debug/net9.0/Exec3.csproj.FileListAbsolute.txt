@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\bin\Debug\net9.0\Exec3.exe
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\bin\Debug\net9.0\Exec3.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\bin\Debug\net9.0\Exec3.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\bin\Debug\net9.0\Exec3.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\bin\Debug\net9.0\Exec3.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\Exec3.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\Exec3.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\Exec3.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\Exec3.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\Exec3.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\refint\Exec3.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\Exec3.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\Exec3.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Exec3\Exec3\obj\Debug\net9.0\ref\Exec3.dll

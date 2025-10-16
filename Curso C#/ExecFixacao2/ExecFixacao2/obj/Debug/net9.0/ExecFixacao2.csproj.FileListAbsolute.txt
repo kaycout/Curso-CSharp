@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\bin\Debug\net9.0\ExecFixacao2.exe
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\bin\Debug\net9.0\ExecFixacao2.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\bin\Debug\net9.0\ExecFixacao2.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\bin\Debug\net9.0\ExecFixacao2.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\bin\Debug\net9.0\ExecFixacao2.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\ExecFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\ExecFixacao2.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\ExecFixacao2.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\ExecFixacao2.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\ExecFixacao2.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\refint\ExecFixacao2.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\ExecFixacao2.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\ExecFixacao2.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao2\ExecFixacao2\obj\Debug\net9.0\ref\ExecFixacao2.dll
