@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\bin\Debug\net9.0\ExecFixacao7.exe
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\bin\Debug\net9.0\ExecFixacao7.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\bin\Debug\net9.0\ExecFixacao7.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\bin\Debug\net9.0\ExecFixacao7.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\bin\Debug\net9.0\ExecFixacao7.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\ExecFixacao7.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\ExecFixacao7.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\ExecFixacao7.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\ExecFixacao7.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\ExecFixacao7.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\refint\ExecFixacao7.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\ExecFixacao7.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\ExecFixacao7.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao7\ExecFixacao7\obj\Debug\net9.0\ref\ExecFixacao7.dll
