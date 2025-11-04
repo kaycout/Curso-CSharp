@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExecFixacao4/1.0.0": {
+        "runtime": {
+          "ExecFixacao4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExecFixacao4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

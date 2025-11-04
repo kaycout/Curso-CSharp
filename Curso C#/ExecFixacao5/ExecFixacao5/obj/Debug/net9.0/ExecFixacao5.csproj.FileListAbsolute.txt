@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\ExecFixacao5.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\ExecFixacao5.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\ExecFixacao5.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\ExecFixacao5.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\bin\Debug\net9.0\ExecFixacao5.exe
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\bin\Debug\net9.0\ExecFixacao5.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\bin\Debug\net9.0\ExecFixacao5.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\bin\Debug\net9.0\ExecFixacao5.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\bin\Debug\net9.0\ExecFixacao5.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\ExecFixacao5.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\refint\ExecFixacao5.dll
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\ExecFixacao5.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\ExecFixacao5.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\ExecFixacao5\ExecFixacao5\obj\Debug\net9.0\ref\ExecFixacao5.dll
