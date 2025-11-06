@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\bin\Debug\net9.0\Vetor.exe
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\bin\Debug\net9.0\Vetor.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\bin\Debug\net9.0\Vetor.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\bin\Debug\net9.0\Vetor.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\bin\Debug\net9.0\Vetor.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\Vetor.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\Vetor.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\Vetor.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\Vetor.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\refint\Vetor.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\Vetor.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\Vetor.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Vetor\Vetor\obj\Debug\net9.0\ref\Vetor.dll

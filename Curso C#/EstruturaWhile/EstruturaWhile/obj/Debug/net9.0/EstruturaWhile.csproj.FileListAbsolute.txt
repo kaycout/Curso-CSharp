@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\bin\Debug\net9.0\EstruturaWhile.exe
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\bin\Debug\net9.0\EstruturaWhile.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\bin\Debug\net9.0\EstruturaWhile.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\bin\Debug\net9.0\EstruturaWhile.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\bin\Debug\net9.0\EstruturaWhile.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\EstruturaWhile.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\EstruturaWhile.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\EstruturaWhile.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\EstruturaWhile.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\refint\EstruturaWhile.dll
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\EstruturaWhile.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\EstruturaWhile.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\EstruturaWhile\EstruturaWhile\obj\Debug\net9.0\ref\EstruturaWhile.dll

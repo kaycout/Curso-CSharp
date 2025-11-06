@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\bin\Debug\net9.0\SituacaoProblem.exe
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\bin\Debug\net9.0\SituacaoProblem.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\bin\Debug\net9.0\SituacaoProblem.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\bin\Debug\net9.0\SituacaoProblem.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\bin\Debug\net9.0\SituacaoProblem.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\SituacaoProblem.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\SituacaoProblem.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\SituacaoProblem.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\SituacaoProblem.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\SituacaoProblem.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\refint\SituacaoProblem.dll
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\SituacaoProblem.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\SituacaoProblem.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\SituacaoProblem\SituacaoProblem\obj\Debug\net9.0\ref\SituacaoProblem.dll
