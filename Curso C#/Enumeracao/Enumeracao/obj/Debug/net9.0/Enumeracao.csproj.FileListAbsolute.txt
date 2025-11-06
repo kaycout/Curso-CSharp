@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\bin\Debug\net9.0\Enumeracao.exe
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\bin\Debug\net9.0\Enumeracao.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\bin\Debug\net9.0\Enumeracao.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\bin\Debug\net9.0\Enumeracao.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\bin\Debug\net9.0\Enumeracao.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\Enumeracao.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\Enumeracao.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\Enumeracao.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\Enumeracao.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\refint\Enumeracao.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\Enumeracao.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\Enumeracao.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Enumeracao\Enumeracao\obj\Debug\net9.0\ref\Enumeracao.dll
