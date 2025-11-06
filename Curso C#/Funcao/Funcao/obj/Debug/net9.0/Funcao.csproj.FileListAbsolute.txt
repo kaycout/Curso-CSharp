@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\bin\Debug\net9.0\Funcao.exe
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\bin\Debug\net9.0\Funcao.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\bin\Debug\net9.0\Funcao.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\bin\Debug\net9.0\Funcao.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\bin\Debug\net9.0\Funcao.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\Funcao.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\Funcao.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\Funcao.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\Funcao.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\Funcao.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\refint\Funcao.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\Funcao.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\Funcao.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Funcao\Funcao\obj\Debug\net9.0\ref\Funcao.dll
