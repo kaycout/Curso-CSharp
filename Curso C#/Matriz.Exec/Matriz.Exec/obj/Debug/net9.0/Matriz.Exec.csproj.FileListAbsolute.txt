@@ -1,0 +1,14 @@
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\bin\Debug\net9.0\Matriz.Exec.exe
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\bin\Debug\net9.0\Matriz.Exec.deps.json
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\bin\Debug\net9.0\Matriz.Exec.runtimeconfig.json
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\bin\Debug\net9.0\Matriz.Exec.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\bin\Debug\net9.0\Matriz.Exec.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\Matriz.Exec.GeneratedMSBuildEditorConfig.editorconfig
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\Matriz.Exec.AssemblyInfoInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\Matriz.Exec.AssemblyInfo.cs
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\Matriz.Exec.csproj.CoreCompileInputs.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\Matriz.Exec.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\refint\Matriz.Exec.dll
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\Matriz.Exec.pdb
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\Matriz.Exec.genruntimeconfig.cache
+T:\Desenvolvimento\Kaylane\Curso C#\Matriz.Exec\Matriz.Exec\obj\Debug\net9.0\ref\Matriz.Exec.dll
